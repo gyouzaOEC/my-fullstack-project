@@ -1,0 +1,3 @@
+# Node.js
+/my-shopping-site-api/node_modules
+/my-shopping-site-api/.env  <-- この行を追加
